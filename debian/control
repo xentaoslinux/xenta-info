@@ -1,0 +1,23 @@
+Source: xenta-info
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/xentaos/xenta-info
+Vcs-Browser: https://github.com/xentaos/xenta-info.git
+
+Package: xenta-info-cinnamon
+Architecture: all
+Provides: xenta-info
+Depends: xenta-user-guide-cinnamon
+Description: Paket Untuk Informasi Xenta OS Edisi Cinnamon.
+ Paket Dasar Xenta OS Xenta OS (Base) Untuk Kebutuhan dan 
+ Sumber Informasi dari Xenta OS Edisi Cinnamon.
+
+Package: xenta-info-xfce
+Architecture: all
+Provides: xenta-info
+Depends: xenta-user-guide-xfce
+Description: Paket Untuk Informasi Xenta OS Edisi Xfce.
+ Paket Dasar Xenta OS Xenta OS (Base) Untuk Kebutuhan dan 
+ Sumber Informasi dari Xenta OS Edisi Xfce.
