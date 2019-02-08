@@ -1,10 +1,10 @@
-RELEASE=1.3 LTS
-CODENAME=arok
+RELEASE=2.0 LTS
+CODENAME=batik
 EDITION="Cinnamon 64-bit"
-DESCRIPTION="Xenta OS 1.3 LTS Arok"
+DESCRIPTION="Xenta OS 2.0 LTS Batik"
 DESKTOP=Gnome
 TOOLKIT=GTK
-NEW_FEATURES_URL=http://www.xentaos.org/
-RELEASE_NOTES_URL=http://www.xentaos.org/
+NEW_FEATURES_URL=http://www.xentaos.com/
+RELEASE_NOTES_URL=http://www.xentaos.com/
 USER_GUIDE_URL=help:xentaos
-GRUB_TITLE=Xenta OS 1.3 LTS Cinnamon 64-bit
+GRUB_TITLE=Xenta OS 2.0 LTS Cinnamon 64-bit
