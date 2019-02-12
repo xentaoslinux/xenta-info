@@ -1,3 +1,9 @@
+xenta-info (1.3.4) batik; urgency=medium
+
+  * Memperbaharui kodenama batik
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Tue, 12 Feb 2019 09:45:08 +0700
+
 xenta-info (1.3.3) arok; urgency=medium
 
   * Memperbaharui link sementara /etc/*
